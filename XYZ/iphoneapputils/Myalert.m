@@ -1,10 +1,3 @@
-//
-//  Myalert.m
-//  Hashly
-//
-//  Created by puneet on 14/03/13.
-//  Copyright (c) 2013 M. All rights reserved.
-//
 
 #import "Myalert.h"
 
